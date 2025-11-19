@@ -1,1 +1,1 @@
-# Earthquake-tsunami
+Exploratory-Anlysis-of-Global-Earthquake
